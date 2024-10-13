@@ -19,7 +19,7 @@ export const Home = () => {
             <section id="about" className="px-8 sm:px-5">
                 <h2 className="text-[#00ff08] font-semibold text-center text-xl md:text-3xl uppercase">Sobre Mim</h2>
 
-                <p className="text-white text-justify text-lg mt-4">Me chamo Sandro dos Santos Campesatto Junior, graduando em Analise e Desenvolvimento de Sistemas no Centro Universitario do Norte - Uninorte. Amo técnologia, estudo programção, pois sempre foi um sonho meu ser programador, jogar vídeo game é meu hobbie, estou sempre em busca de evolução, novos desafios e novas tecnologias.</p>
+                <p className="text-white text-justify text-lg mt-4">Me chamo Sandro dos Santos Campesatto Junior, graduando em Analise e Desenvolvimento de Sistemas no Centro Universitario do Norte - Uninorte. Amo tecnologia, estudo programação, pois sempre foi um sonho meu ser programador, jogar vídeo game é meu hobbie, estou sempre em busca de evolução, novos desafios e novas tecnologias.</p>
             </section>
             <section id="skills" className="mt-6">
                 <h2 className="text-[#00ff08]  text-center text-xl md:text-3xl uppercase sm:mt-10">Habilidades</h2>
