@@ -8,6 +8,7 @@ export const Header = () => {
         { name: "Home", link: "/" },
         { name: "About", link: "#about" },
         { name: "Skills", link: "#skills" },
+        { name: "Projetos", link: "#projetos" },
         { name: "Contact", link: "#contact" },
     ]
 

@@ -47,6 +47,31 @@ export const Home = () => {
                     </ul>
                 </div>
             </section>
+            <section id="projetos" className="mt-6">
+                <h2 className="text-[#00ff08]  text-center text-xl md:text-3xl uppercase sm:mt-10">Projetos Recentes</h2>
+
+                <div className="flex flex-wrap justify-center gap-6 lg:gap-14 mt-4">
+                    <div className=" max-w-[300px] w-full sm:w-auto">
+                        <div className="flex justify-center">
+                            <img src="/projeto-1.jpg" alt="Foto do Sistema de busca de perfis de usuários do GitHub" className="w-72 h-auto" />
+                        </div>
+                        <p className="text-center text-white mt-2">Sistema de busca de perfis de usuários do GitHub</p>
+                        <div className="flex justify-center">
+                            <a href="https://campesattojr.github.io/fetch-github-api/" target="_blank" rel="noopener noreferrer" className="text-[#00ff08]">Clique aqui</a>
+                        </div>
+                    </div>
+
+                    <div className="max-w-[300px] w-full sm:w-auto">
+                        <div className="flex justify-center">
+                            <img src="/projeto-2.jpg" alt="Foto da Calculadora de amperagem e pressão desenvolvida para auxiliar no meu trabalho" className="w-72 h-auto" />
+                        </div>
+                        <p className="text-center text-white mt-2">Calculadora de amperagem e pressão desenvolvida para auxiliar no meu trabalho</p>
+                        <div className="flex justify-center">
+                            <a href="https://campesattojr.github.io/calculadora-amperagem-pressao/" target="_blank" rel="noopener noreferrer" className="text-[#00ff08]">Clique aqui</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section id="contact" className="mt-6">
                 <h2 className="text-[#00ff08]  text-center text-xl md:text-3xl uppercase sm:mt-10">Contato</h2>
                 <p className="text-white text-center text-lg mt-4 px-6">Para entrar em contato comigo, ou me seguir nas res sociais.</p>
